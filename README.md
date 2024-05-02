@@ -4,8 +4,6 @@ My area of study is Climate Change and its impacts on outbreak events of Chorist
 
 I am experienced in GIS, Data Analysis, and Statistical Analysis using R. I have some experience with python.
 
-Currently I'm using this repository to document my progress with the 2023 Advent of Code.
-
 Feel free to contact me at bobag@wwu.edu.
 
 <!---
